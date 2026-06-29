@@ -6,13 +6,15 @@
     "update-readme": "tsx scripts/readme.ts",
     "validate": "tsx scripts/validate.ts",
     "report": "tsx scripts/report.ts",
-    "normalize-tags": "tsx scripts/normalize-tags.ts"
+    "normalize-tags": "tsx scripts/normalize-tags.ts",
+    "build-site": "tsx scripts/build-site.ts"
   },
   "author": "",
   "license": "cc-by-nc-sd-4.0",
   "devDependencies": {
     "@types/node": "^22.13.14",
     "gray-matter": "^4.0.3",
+    "marked": "^18.0.5",
     "tsx": "^4.19.3"
   }
 }

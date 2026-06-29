@@ -65,3 +65,5 @@ scratch/
 
 # IPython Notebook templates
 template.ipynb
+# Generated static site (built from data/ via `pnpm run build-site`)
+site/
