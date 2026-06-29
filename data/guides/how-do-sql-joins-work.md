@@ -8,7 +8,7 @@ categories:
   - technical-interviews
 tags:
   - "SQL"
-  - "Database"
+  - "Databases"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0367-top-4-types-of-sql-joins.png)

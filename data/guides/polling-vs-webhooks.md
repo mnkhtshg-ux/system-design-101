@@ -7,7 +7,7 @@ draft: false
 categories:
   - api-web-development
 tags:
-  - APIs
+  - API
   - Webhooks
 ---
 

@@ -20,6 +20,18 @@ import path from 'path'
 
 const GUIDES_DIR = path.join(process.cwd(), 'data/guides')
 
+/**
+ * Curated singular/plural (and other non-case) tag merges. These are judgment
+ * calls — unlike case folding they can't be derived safely — so each one is
+ * listed explicitly. The canonical here is the dataset's more-used form.
+ * "HTTP"/"HTTPS" is intentionally NOT merged: they are different things.
+ */
+const MANUAL_MERGES = new Map<string, string>([
+  ['Database', 'Databases'],
+  ['APIs', 'API'],
+  ['Message Queue', 'Message Queues'],
+])
+
 const TAG_ITEM = /^(\s*-\s*)(.*?)(\s*)$/
 
 function unquote(value: string): { bare: string; quote: string } {
@@ -96,6 +108,16 @@ function buildCanonicalMap(counts: Map<string, number>): Map<string, string> {
     for (const form of forms) {
       if (form !== canonical) map.set(form, canonical)
     }
+  }
+
+  // Layer the curated merges on top: every surface form (and any case-canonical
+  // it already resolves to) that matches a manual key is redirected to the
+  // manual target, case-insensitively.
+  const manualByLower = new Map([...MANUAL_MERGES].map(([from, to]) => [from.toLowerCase(), to]))
+  for (const tag of counts.keys()) {
+    const current = map.get(tag) || tag
+    const target = manualByLower.get(current.toLowerCase())
+    if (target && target !== tag) map.set(tag, target)
   }
   return map
 }

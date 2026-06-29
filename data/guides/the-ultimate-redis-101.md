@@ -8,7 +8,7 @@ categories:
   - caching-performance
 tags:
   - "Redis"
-  - "Database"
+  - "Databases"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0009-steps-to-learn-the-fundamentals-of-redis-101.png)
