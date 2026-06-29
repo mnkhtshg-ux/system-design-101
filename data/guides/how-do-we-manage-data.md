@@ -7,7 +7,7 @@ draft: false
 categories:
   - database-and-storage
 tags:
-  - "data management"
+  - "Data Management"
   - "data patterns"
 ---
 

@@ -8,7 +8,7 @@ categories:
   - software-development
 tags:
   - "garbage collection"
-  - "memory management"
+  - "Memory Management"
 ---
 
 Garbage collection is an automatic memory management feature used in programming languages to reclaim memory no longer used by the program.

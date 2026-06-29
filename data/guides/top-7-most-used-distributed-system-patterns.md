@@ -7,8 +7,8 @@ draft: false
 categories:
   - cloud-distributed-systems
 tags:
-  - "distributed systems"
-  - "system design"
+  - "Distributed Systems"
+  - "System Design"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0119-top-7-most-used-distributed-system-patterns.png)

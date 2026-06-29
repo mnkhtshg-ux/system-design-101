@@ -7,8 +7,8 @@ draft: false
 categories:
   - security
 tags:
-  - data security
-  - data management
+  - Data Security
+  - Data Management
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0058-cheatsheet-for-managing-sensitive-data.png)

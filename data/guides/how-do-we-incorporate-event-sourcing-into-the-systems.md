@@ -8,7 +8,7 @@ categories:
   - cloud-distributed-systems
 tags:
   - "event sourcing"
-  - "microservices"
+  - "Microservices"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0037-use-cases-for-event-sourcing.png)

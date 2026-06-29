@@ -7,8 +7,8 @@ draft: false
 categories:
   - database-and-storage
 tags:
-  - "database"
-  - "performance"
+  - "Database"
+  - "Performance"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0062-a-cheatsheet-on-database-performance.png)

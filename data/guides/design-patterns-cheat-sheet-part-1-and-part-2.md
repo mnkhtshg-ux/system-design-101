@@ -7,8 +7,8 @@ draft: false
 categories:
   - software-architecture
 tags:
-  - "design patterns"
-  - "software design"
+  - "Design Patterns"
+  - "Software Design"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0167-design-patterns-cheat-sheet-part-2.png)

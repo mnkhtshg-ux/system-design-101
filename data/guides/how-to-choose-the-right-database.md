@@ -8,7 +8,7 @@ categories:
   - database-and-storage
 tags:
   - "database selection"
-  - "data storage"
+  - "Data Storage"
 ---
 
 ![How to Choose the Right Database](https://assets.bytebytego.com/diagrams/0227-how-to-choose-the-right-database.png)

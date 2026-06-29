@@ -7,8 +7,8 @@ draft: false
 categories:
   - caching-performance
 tags:
-  - "latency"
-  - "performance"
+  - "Latency"
+  - "Performance"
 ---
 
 Please note those are not accurate numbers. They are based on some online benchmarks (Jeff Dean’s latency numbers + some other sources).

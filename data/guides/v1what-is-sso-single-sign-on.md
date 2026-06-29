@@ -7,7 +7,7 @@ draft: false
 categories:
   - security
 tags:
-  - "authentication"
+  - "Authentication"
   - "SSO"
 ---
 

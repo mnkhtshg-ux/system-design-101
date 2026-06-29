@@ -8,7 +8,7 @@ categories:
   - api-web-development
 tags:
   - javascript
-  - programming
+  - Programming
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0241-javascript-js-explained.png)

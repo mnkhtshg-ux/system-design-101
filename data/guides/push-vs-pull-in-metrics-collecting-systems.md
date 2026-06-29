@@ -8,7 +8,7 @@ categories:
   - devops-cicd
 tags:
   - "metrics"
-  - "monitoring"
+  - "Monitoring"
 ---
 
 [![](https://assets.bytebytego.com/diagrams/0274-metrics-push-pull.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F197e300b-7e29-40b4-ac0e-8e9280133bf0_1514x1999.png)

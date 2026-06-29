@@ -8,7 +8,7 @@ categories:
   - devtools-productivity
 tags:
   - "diagrams"
-  - "architecture"
+  - "Architecture"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0173-diagrams-as-code-twitter.jpeg)

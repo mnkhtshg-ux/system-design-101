@@ -8,7 +8,7 @@ categories:
   - cloud-distributed-systems
 tags:
   - "cloud-native"
-  - "architecture"
+  - "Architecture"
 ---
 
 The diagram below shows the action spectrum and adoption roadmap. You can use it as a blueprint for adopting cloud-native in your organization.

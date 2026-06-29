@@ -7,7 +7,7 @@ draft: false
 categories:
   - software-architecture
 tags:
-  - "microservices"
+  - "Microservices"
   - "architecture patterns"
 ---
 

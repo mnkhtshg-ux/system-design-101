@@ -7,8 +7,8 @@ draft: false
 categories:
   - database-and-storage
 tags:
-  - "database"
-  - "sharding"
+  - "Database"
+  - "Sharding"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0065-a-crash-course-on-database-sharding.png)

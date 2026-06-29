@@ -8,7 +8,7 @@ categories:
   - how-it-works
 tags:
   - "internationalization"
-  - "system design"
+  - "System Design"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0235-internationalization.jpeg)

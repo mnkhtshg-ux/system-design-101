@@ -8,7 +8,7 @@ categories:
   - database-and-storage
 tags:
   - "event sourcing"
-  - "system design"
+  - "System Design"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0188-event-sourcing.jpeg)

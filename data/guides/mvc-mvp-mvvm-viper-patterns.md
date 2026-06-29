@@ -8,7 +8,7 @@ categories:
   - software-architecture
 tags:
   - "architectural patterns"
-  - "software design"
+  - "Software Design"
 ---
 
 ![MVC, MVP, MVVM, VIPER Patterns](https://assets.bytebytego.com/diagrams/0143-client-arch-patterns.png)

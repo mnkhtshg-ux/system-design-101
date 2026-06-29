@@ -8,7 +8,7 @@ categories:
   - caching-performance
 tags:
   - "memcached"
-  - "redis"
+  - "Redis"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0267-memcached-redis.jpg)

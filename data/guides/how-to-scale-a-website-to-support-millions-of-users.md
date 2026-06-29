@@ -7,8 +7,8 @@ draft: false
 categories:
   - cloud-distributed-systems
 tags:
-  - scalability
-  - architecture
+  - Scalability
+  - Architecture
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0322-scale-to-million.jpg)

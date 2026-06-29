@@ -7,7 +7,7 @@ draft: false
 categories:
   - security
 tags:
-  - "cookies"
+  - "Cookies"
   - "sessions"
 ---
 
