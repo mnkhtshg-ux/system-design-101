@@ -26,6 +26,7 @@ interface Guide {
   title: string
   createdAt: string
   categories: string[]
+  image: string
 }
 
 const errors: string[] = []
@@ -73,7 +74,7 @@ function getGuides(categoryIds: Set<string>): Guide[] {
         }
       })
 
-      return { id, title: data.title, createdAt: data.createdAt, categories }
+      return { id, title: data.title, createdAt: data.createdAt, categories, image: data.image || '' }
     })
 }
 
@@ -116,6 +117,21 @@ function main(): void {
   categories
     .filter(c => !usedCategories.has(c.id))
     .forEach(c => console.warn(`⚠️  Category "${c.id}" has no guides.`))
+
+  // Warn (not fail) when several guides share the same image. Reusing a
+  // diagram is occasionally intentional, but it is usually a copy-paste slip
+  // where a guide kept another guide's image.
+  const imageOwners = new Map<string, string[]>()
+  guides.forEach(g => {
+    if (!g.image) return
+    if (!imageOwners.has(g.image)) imageOwners.set(g.image, [])
+    imageOwners.get(g.image)!.push(g.id)
+  })
+  ;[...imageOwners.entries()]
+    .filter(([, owners]) => owners.length > 1)
+    .forEach(([image, owners]) => {
+      console.warn(`⚠️  Image reused by ${owners.length} guides (${owners.join(', ')}): ${image}`)
+    })
 
   checkReadmeInSync(categories, guides)
 
