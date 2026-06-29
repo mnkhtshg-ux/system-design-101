@@ -8,7 +8,7 @@ categories:
   - devops-cicd
 tags:
   - "observability"
-  - "monitoring"
+  - "Monitoring"
 ---
 
 Logging, tracing, and metrics are 3 pillars of system observability. The diagram below shows their definitions and typical architectures.

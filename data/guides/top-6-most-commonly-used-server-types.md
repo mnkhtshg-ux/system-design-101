@@ -8,7 +8,7 @@ categories:
   - software-development
 tags:
   - "servers"
-  - "networking"
+  - "Networking"
 ---
 
 ![server types](https://assets.bytebytego.com/diagrams/0327-server-types.png)

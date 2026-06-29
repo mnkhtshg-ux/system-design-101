@@ -7,8 +7,8 @@ draft: false
 categories:
   - cloud-distributed-systems
 tags:
-  - "system design"
-  - "architecture"
+  - "System Design"
+  - "Architecture"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0352-a-cheat-sheet-for-system-designs.png)

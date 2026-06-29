@@ -8,7 +8,7 @@ categories:
   - payment-and-fintech
 tags:
   - "Fintech"
-  - "Visa"
+  - "VISA"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0041-how-does-visa-make-money.png)

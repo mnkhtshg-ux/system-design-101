@@ -8,7 +8,7 @@ categories:
   - security
 tags:
   - "security design"
-  - "system design"
+  - "System Design"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0138-cheat-sheet-for-designing-secure-systems.png)

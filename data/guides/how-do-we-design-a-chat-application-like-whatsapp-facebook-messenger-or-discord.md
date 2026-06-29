@@ -7,8 +7,8 @@ draft: false
 categories:
   - how-it-works
 tags:
-  - architecture
-  - messaging
+  - Architecture
+  - Messaging
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0134-chat-app.jpeg)

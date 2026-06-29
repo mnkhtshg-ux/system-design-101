@@ -8,7 +8,7 @@ categories:
   - database-and-storage
 tags:
   - "PostgreSQL"
-  - "Database"
+  - "Databases"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0303-postgres.png)

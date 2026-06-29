@@ -7,8 +7,8 @@ draft: false
 categories:
   - security
 tags:
-  - "authentication"
-  - "jwt"
+  - "Authentication"
+  - "JWT"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0244-jwt-101-key-to-stateless-authentication.png)

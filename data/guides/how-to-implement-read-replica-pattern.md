@@ -7,7 +7,7 @@ draft: false
 categories:
   - database-and-storage
 tags:
-  - Database
+  - Databases
   - Read Replicas
 ---
 

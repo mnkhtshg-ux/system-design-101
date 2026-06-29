@@ -7,8 +7,8 @@ draft: false
 categories:
   - real-world-case-studies
 tags:
-  - payment systems
-  - resilience
+  - Payment Systems
+  - Resilience
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0336-shopify.png)

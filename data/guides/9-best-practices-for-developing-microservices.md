@@ -7,8 +7,8 @@ draft: false
 categories:
   - software-architecture
 tags:
-  - "microservices"
-  - "best practices"
+  - "Microservices"
+  - "Best Practices"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0275-micro-best-practices.png)

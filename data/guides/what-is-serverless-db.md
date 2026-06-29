@@ -8,7 +8,7 @@ categories:
   - database-and-storage
 tags:
   - "Serverless"
-  - "Database"
+  - "Databases"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0329-serverlessdb.jpeg)

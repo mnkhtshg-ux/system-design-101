@@ -7,8 +7,8 @@ draft: false
 categories:
   - technical-interviews
 tags:
-  - "interview preparation"
-  - "system design"
+  - "Interview Preparation"
+  - "System Design"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0353-my-recommended-materials-for-cracking-your-next-technical-interview.png)

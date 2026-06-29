@@ -8,7 +8,7 @@ categories:
   - devtools-productivity
 tags:
   - software-engineering
-  - deployment
+  - Deployment
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0334-ship-to-prod.png)

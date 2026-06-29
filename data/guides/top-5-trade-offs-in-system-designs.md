@@ -7,7 +7,7 @@ draft: false
 categories:
   - cloud-distributed-systems
 tags:
-  - "system design"
+  - "System Design"
   - "trade-offs"
 ---
 

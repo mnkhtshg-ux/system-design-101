@@ -7,7 +7,7 @@ draft: false
 categories:
   - how-it-works
 tags:
-  - "notifications"
+  - "Notifications"
   - "mobile"
 ---
 

@@ -7,8 +7,8 @@ draft: false
 categories:
   - devtools-productivity
 tags:
-  - "git"
-  - "version control"
+  - "Git"
+  - "Version Control"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0202-git-commands.png)

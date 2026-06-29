@@ -7,8 +7,8 @@ draft: false
 categories:
   - cloud-distributed-systems
 tags:
-  - "distributed systems"
-  - "concurrency"
+  - "Distributed Systems"
+  - "Concurrency"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0383-top-6-use-cases-of-distributed-lock.png)

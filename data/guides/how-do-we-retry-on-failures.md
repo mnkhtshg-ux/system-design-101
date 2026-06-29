@@ -7,7 +7,7 @@ draft: false
 categories:
   - cloud-distributed-systems
 tags:
-  - "distributed systems"
+  - "Distributed Systems"
   - "retry strategies"
 ---
 

@@ -7,8 +7,8 @@ draft: false
 categories:
   - caching-performance
 tags:
-  - "caching"
-  - "performance"
+  - "Caching"
+  - "Performance"
 ---
 
 ![caching strategy](https://assets.bytebytego.com/diagrams/0129-caching-strategy.jpg)

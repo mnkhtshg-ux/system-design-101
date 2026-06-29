@@ -7,8 +7,8 @@ draft: false
 categories:
   - software-architecture
 tags:
-  - "design patterns"
-  - "software development"
+  - "Design Patterns"
+  - "Software Development"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0032-oo-patterns-you-should-know.png)

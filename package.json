@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Explain complex systems using visuals and simple terms.",
   "scripts": {
-    "update-readme": "tsx scripts/readme.ts"
+    "update-readme": "tsx scripts/readme.ts",
+    "validate": "tsx scripts/validate.ts",
+    "report": "tsx scripts/report.ts",
+    "normalize-tags": "tsx scripts/normalize-tags.ts"
   },
   "author": "",
   "license": "cc-by-nc-sd-4.0",

@@ -8,7 +8,7 @@ categories:
   - caching-performance
 tags:
   - api performance
-  - optimization
+  - Optimization
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0001-how-to-improve-api-performance.png)

@@ -7,7 +7,7 @@ draft: false
 categories:
   - devtools-productivity
 tags:
-  - "linux"
+  - "Linux"
   - "commands"
 ---
 

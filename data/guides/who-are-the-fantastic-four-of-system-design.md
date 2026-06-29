@@ -7,8 +7,8 @@ draft: false
 categories:
   - cloud-distributed-systems
 tags:
-  - "system design"
-  - "scalability"
+  - "System Design"
+  - "Scalability"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0357-who-are-the-fantastic-four-of-system-design.png)

@@ -7,8 +7,8 @@ draft: false
 categories:
   - database-and-storage
 tags:
-  - "databases"
-  - "data management"
+  - "Databases"
+  - "Data Management"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0394-understanding-database-types.png)

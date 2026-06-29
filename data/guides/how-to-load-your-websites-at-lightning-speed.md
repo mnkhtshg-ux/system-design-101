@@ -8,7 +8,7 @@ categories:
   - caching-performance
 tags:
   - "frontend"
-  - "performance"
+  - "Performance"
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0198-frontend-performance-cheatsheet.png)

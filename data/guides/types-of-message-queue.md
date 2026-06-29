@@ -7,7 +7,7 @@ draft: false
 categories:
   - database-and-storage
 tags:
-  - "Message Queue"
+  - "Message Queues"
   - "Messaging Systems"
 ---
 
